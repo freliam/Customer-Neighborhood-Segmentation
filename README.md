@@ -1,2 +1,2 @@
-# Customer-Segmentation-
-Customer Segmentation with k-means clustering
+# Customer-Neighborhood-Segmentation-
+Customer and Neighborhood Segmentation with k-means Clustering
